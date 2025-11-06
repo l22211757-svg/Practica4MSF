@@ -47,7 +47,8 @@ Palabras clave: Eritropoyesis, Eritropoyetina, Glóbulos rojos, Modelado matemá
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno computacional de MATLAB \[.mlx].
-2. Imágenes de las simulaciones \[.pdf y .png].
+2. Imágenes de las simulaciones Caso Sin transfusion sanguinea \[.pdf ].
+3. Imágenes de las simulaciones Caso Con transfusion sanguinea \[.pdf ].
 
 ## Referencias
 
