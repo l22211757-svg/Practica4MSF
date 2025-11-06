@@ -43,7 +43,7 @@ x₃(t): eritrocitos maduros que circulan en la sangre y transportan oxígeno.
 
 La hormona eritropoyetina, producida por el riñón, regula este proceso y aumenta su producción cuando disminuyen los niveles de oxígeno en los tejidos. Además, el modelo considera la muerte natural de las células y puede incluir una transfusión sanguínea representada como una entrada externa que incrementa temporalmente la cantidad de eritrocitos maduros.
 
-El sistema se resolvio con las siguientes condiciones iniciales:
+## El sistema se resolvio con las siguientes condiciones:
 x1_0 = 59; x2_0 = 44; x3_0 = 885
 
 Condiciones iniciales de los parametros de gamma y beta 
@@ -52,6 +52,14 @@ gamma = [0.796, 0.388,0.510,0.590,0.262,0.324,0.356, 0.089, 0.243, 0.057];
 
 beta = [1.650,0.867,1.617,2.615,1.518,2.676,0.891,2.557,0.925,0.089]
 
+Condiciones iniciales para cada paciente
+X1(0)=
+   60.4604   61.1162   57.7565   56.0959   60.0087   58.6998   61.0280   61.8326   57.3281   59.8023
+X2(0)=
+  45.0891   45.5782   43.0726   41.8342   44.7523   43.7761   45.5124   46.1124   42.7532   44.5983
+X3(0)=
+  906.9053  916.7429  866.3471  841.4388  900.1310  880.4969  915.4203  927.4885  859.9213  897.0342
+  
 Palabras clave: Eritropoyesis; Eritropoyetina; Glóbulos rojos; Modelado matemático; Ecuaciones diferenciales; Transfusión sanguínea.
 
 ## Lista de archivos incluidos en el repositorio
