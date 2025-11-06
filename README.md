@@ -54,4 +54,5 @@ Palabras clave: Eritropoyesis, Eritropoyetina, Glóbulos rojos, Modelado matemá
 
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
 
-\[2] Tetschke, M., Liebenthal, P., Potgieter, T., Fiechter, T., Schälte, E., & Sager, S. (2018). Mathematical modeling of RBC count dynamics after blood loss. Processes, 6(9), 157. file:///C:/Users/HP/Downloads/processes-06-00157.pdf
+\[2] Tetschke, M., Liebenthal, P., Potgieter, T., Fiechter, T., Schälte, E., & Sager, S. (2018). Mathematical modeling of RBC count dynamics after blood loss. Processes, 6(9), 157.  file:///C:/Users/HP/Downloads/processes-06-00157.pdf  
+
