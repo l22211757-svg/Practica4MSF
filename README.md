@@ -42,6 +42,8 @@ x₂(t): células precursoras en maduración que continúan su diferenciación.
 x₃(t): eritrocitos maduros que circulan en la sangre y transportan oxígeno.
 
 La hormona eritropoyetina, producida por el riñón, regula este proceso y aumenta su producción cuando disminuyen los niveles de oxígeno en los tejidos. Además, el modelo considera la muerte natural de las células y puede incluir una transfusión sanguínea representada como una entrada externa que incrementa temporalmente la cantidad de eritrocitos maduros.
+
+
 Palabras clave: Eritropoyesis, Eritropoyetina, Glóbulos rojos, Modelado matemático, Ecuaciones diferenciales, Transfusión sanguínea
 
 ## Lista de archivos incluidos en el repositorio
